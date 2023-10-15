@@ -1,0 +1,5 @@
+Git project:
+
+$ git init				(starts project in git)
+$ ls -al
+$ git status
